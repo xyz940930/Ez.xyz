@@ -1,0 +1,2 @@
+# Ez.xyz
+Graduation project
